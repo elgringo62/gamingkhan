@@ -1,0 +1,18 @@
+* {
+    margin: 0px;
+}
+
+.container {
+    height: 70px;
+    width: 100%;
+    background: #000;
+    align-items: center;
+
+
+}
+
+.container h1 {
+    color: #fff;
+    padding-left: 20px;
+    align-self: center;
+}

@@ -1,0 +1,56 @@
+.Profile-container{
+    width: 300px;
+    background: #000;
+    padding: 10px;
+    
+}
+
+.Top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#name1{
+    color: #fff;
+}
+
+#name2{
+    color: orange;
+}
+
+.Bottom{
+    background: #fff;
+    height: 1px;
+    width: 100%;
+
+}
+
+.Balance{
+    margin-top: 20px;
+}
+
+.Balance p1{
+    color: #fff;
+}
+.Balance h1{
+    color: greenyellow;
+}
+
+.Balance p2{
+    color: orange;
+}
+
+.Titles{
+    height: 20px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.Titles p2 {
+    color: gray;
+}
+
+.Scroll1{
+    overflow-y: scroll;
+}
